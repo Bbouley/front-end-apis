@@ -1,6 +1,6 @@
 ## Overview
 
-Over the last week we have covered all the topics within this project. So now it's time to put a bunch of them together!! In this exercise we'll be going using jQuery, AJAX calls and web api's to build a search tool that allows a user to input a query and returns relevant information. It's pretty much google. Yeah. Let's make google. Only better...
+Over the last week we have covered all the topics within this project. So now it's time to put a bunch of them together!! In this exercise we'll be using jQuery, AJAX calls and web api's to build a search tool that allows a user to input something and get back relevant information. It's pretty much google. Yeah. Let's make google. Only better...
 
 ### Steps
 
