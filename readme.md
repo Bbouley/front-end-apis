@@ -19,13 +19,16 @@ Over the last week we have covered all the topics within this project. So now it
 1. Next, you will have to use your super amazing DOM manipulation skills to have the information you're getting back from your ajax request show up on your webpage. You can display images, text, links, etc... whatever it is you have chosen to display to your user.
 1. We now currently have a button that hits one endpoint and will only ever return the information from the URL we have hardcoded. How would we make this dynamic?
 1. In order to make it dynamic, we want the user to enter some text into the input box, take that text, and insert it into the string URL we have in our javascript file.
+1. To do this you will have to  work out what section of that string URL needs to be changed to return different information, specifically, what the user has requested.
 1. This will mean that when the user clicks submit, the endpoint URL will contain the parameters the user has specified, and return the data the user has requested.
+1. Make your page look nice!!! Style it so it looks awesome.
 
 
 #### Stretch Goals
 
 1. Add another input box to edit the users search further e.g. return only x results, then use this value to perform logic on the result in your jQuery function
 1. Build a function that will perform an ajax request as soon as the page is loaded, so that there is information already on the page before the user performs a search
+1. Use multiple APIS. How could you use the information returned from one api, to do something with another one? e.g. get movie information from OMDB, then find the soundtrack to it using spotify
 
 ### [OMDB](http://www.omdbapi.com/)
 
