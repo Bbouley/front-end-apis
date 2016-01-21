@@ -1,3 +1,15 @@
+## Learning Experiences
+
+###[AJAX, API, JSON, and XMLHttpRequests](https://coursework.galvanize.com/redirects/learning_experiences/34)
+
+- LE - 6
+
+###[AJAX Extended](https://coursework.galvanize.com/redirects/learning_experiences/105)
+- LE - 2
+
+###[Intro to the DOM](https://coursework.galvanize.com/redirects/learning_experiences/83)
+- LE - 10
+
 ## Overview
 
 Over the last week we have covered all the topics within this project. So now it's time to put a bunch of them together!! In this exercise we'll be using jQuery, AJAX calls and web api's to build a search tool that allows a user to input something and get back relevant information. It's pretty much google. Yeah. Let's make google. Only better...
