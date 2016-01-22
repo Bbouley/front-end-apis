@@ -1,13 +1,13 @@
 ## Learning Experiences
 
-###[AJAX, API, JSON, and XMLHttpRequests](https://coursework.galvanize.com/redirects/learning_experiences/34)
+### [AJAX, API, JSON, and XMLHttpRequests](https://coursework.galvanize.com/redirects/learning_experiences/34)
 
 - LE - 6
 
-###[AJAX Extended](https://coursework.galvanize.com/redirects/learning_experiences/105)
+### [AJAX Extended](https://coursework.galvanize.com/redirects/learning_experiences/105)
 - LE - 2
 
-###[Intro to the DOM](https://coursework.galvanize.com/redirects/learning_experiences/83)
+### [Intro to the DOM](https://coursework.galvanize.com/redirects/learning_experiences/83)
 - LE - 10
 
 ## Overview
@@ -34,6 +34,8 @@ Over the last week we have covered all the topics within this project. So now it
 1. To do this you will have to  work out what section of that string URL needs to be changed to return different information, specifically, what the user has requested.
 1. This will mean that when the user clicks submit, the endpoint URL will contain the parameters the user has specified, and return the data the user has requested.
 1. Make your page look nice!!! Style it so it looks awesome.
+
+Note: If you are using an API key and are going to push to GitHub, make sure to export your key from a separate file. Make sure git is not tracking that file so it does not get pushed up to a public repo.
 
 
 #### Stretch Goals
@@ -79,3 +81,9 @@ Over the last week we have covered all the topics within this project. So now it
   - Regulations.gov API
   - U.S. Department of Agriculture
   - U.S. Department of Education
+
+### [Others](http://www.programmableweb.com/apis/directory)
+
+- Programmable Web offers a large directory of API's that you can filter by keyword or category. Take a look and see if you can find any others that you might want to use.
+
+- Keep in mind that access to some(*most*) API's will require an API key. Sometimes all you have to do is signup but others may have a longer process or even cost money.
